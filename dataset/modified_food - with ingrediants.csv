@@ -1,0 +1,573 @@
+Item,Ingredients,Diet,Protein,Carbs,Fats,Sweet,Bitter,Spicy,Sour,Dessert,Main-course,Starter,North-indian,South-indian
+baby_back_ribs,pork ribs barbecue sauce,1,1,0,1,0,0,1,0,0,1,0,0,0
+beef_tacos,ground beef taco shells lettuce tomatoes cheese salsa sour cream,1,1,1,1,0,0,1,0,0,1,0,0,0
+beet_salad,beets olive oil vinegar salt pepper,0,1,0,0,0,1,0,1,0,1,0,0,0
+breakfast_burrito,tortilla eggs bacon sausage potatoes cheese salsa,1,1,1,1,0,0,1,0,0,1,0,0,0
+bruschetta,baguette tomatoes garlic basil olive oil balsamic vinegar salt pepper,0,0,1,1,0,1,1,1,0,1,1,0,0
+caesar_salad,romaine lettuce croutons parmesan cheese caesar dressing,0,1,1,0,0,1,0,1,0,1,1,0,0
+chicken_curry,chicken onions tomatoes garlic ginger curry powder turmeric cumin coriander chili powder salt,1,1,1,1,0,0,1,0,0,1,0,0,0
+chicken_quesadilla,chicken tortilla cheese salsa,1,1,1,1,0,0,1,0,0,1,0,0,0
+chicken_wings,chicken wings barbecue sauce,1,1,0,1,0,0,1,0,0,1,0,0,0
+club_sandwich,bread turkey bacon lettuce tomato mayonnaise,1,1,1,1,0,0,0,0,0,1,0,0,0
+falafel,chickpeas onions garlic parsley cilantro cumin coriander flour baking powder salt pepper vegetable oil,0,1,1,1,0,0,1,0,0,1,1,0,0
+filet_mignon,beef tenderloin steak salt pepper butter,1,1,0,1,0,0,0,0,0,1,0,0,0
+fish_and_chips,cod fish potatoes flour salt pepper oil vinegar,1,1,1,1,0,0,0,0,0,1,0,0,0
+french_fries,potatoes oil salt,0,0,1,1,0,0,1,0,0,1,1,0,0
+french_onion_soup,onions beef broth garlic thyme bay leaf butter flour Gruyere cheese baguette salt pepper,0,0,1,1,0,1,0,1,0,1,1,0,0
+fried_calamari,squid rings flour salt pepper oil lemon wedges marinara sauce,1,1,1,1,0,0,1,0,0,1,1,0,0
+fried_rice,rice oil eggs carrots peas onions garlic ginger soy sauce sesame oil salt pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+garlic_bread,bread butter garlic parsley,0,1,1,1,0,0,1,0,0,1,1,0,0
+greek_salad,lettuce tomatoes cucumbers olives feta cheese red onion olive oil lemon juice oregano salt pepper,0,1,1,1,0,0,0,1,0,1,1,0,0
+grilled_cheese_sandwich,bread cheese butter,1,1,1,1,0,0,0,0,0,1,0,0,0
+grilled_salmon,salmon fillets olive oil salt pepper,1,1,1,1,0,0,0,1,0,1,0,0,0
+guacamole,avocados onion tomatoes lime juice cilantro salt pepper,0,1,1,1,0,0,1,0,0,1,1,0,0
+hamburger,ground beef salt pepper hamburger buns,1,1,0,1,0,0,0,0,0,1,0,0,0
+hot_and_sour_soup,chicken broth vinegar soy sauce ginger garlic sugar chili sauce mushrooms tofu bamboo shoots green onions,0,1,1,0,0,0,1,1,0,1,0,0,0
+hot_dog,frankfurter bun mustard ketchup onions,1,1,0,1,0,0,1,0,0,1,0,0,0
+lasagna,lasagna noodles ricotta cheese mozzarella cheese Parmesan cheese marinara sauce ground beef garlic onions,1,1,1,1,0,0,0,0,0,1,0,0,0
+lobster_roll_sandwich,lobster roll bread lobster meat mayonnaise celery lemon juice salt pepper,1,1,0,1,0,0,0,0,0,1,0,0,0
+macaroni_and_cheese,macaroni cheddar cheese milk butter flour salt pepper,1,1,1,1,0,0,0,0,0,1,0,0,0
+miso_soup,dashi miso paste tofu green onions seaweed,0,1,1,0,0,0,1,1,0,1,0,0,0
+nachos,tortilla chips cheese salsa guacamole,0,1,1,1,0,0,1,0,0,1,1,0,0
+omelette,eggs milk salt pepper butter vegetables cheese,1,1,1,1,0,0,0,0,0,1,0,0,0
+onion_rings,onions flour breadcrumbs salt pepper oil,0,0,1,1,0,0,0,0,0,1,1,0,0
+pizza,dough tomato sauce cheese toppings,0,1,1,1,0,0,1,0,0,1,0,0,0
+poutine,fries cheese curds gravy,1,1,1,1,0,0,0,0,0,1,0,0,0
+ramen,noodles broth meat vegetables,1,1,1,0,0,0,1,0,0,1,0,0,0
+samosa,potatoes peas onions spices flour oil,0,1,1,1,0,0,1,0,0,1,1,0,0
+spring_rolls,pastry wrappers vegetables meat/shrimp seasoning oil,0,1,1,1,0,0,1,0,0,1,1,0,0
+steak,beef steak salt pepper oil,1,1,0,1,0,0,0,0,0,1,0,0,0
+Maach Jhol,pork bharta,0,1,1,1,0,0,1,0,0,1,0,0,1
+Pork Bharta,black rice milk sugar nuts,0,1,1,1,0,0,1,0,0,1,0,0,1
+Galho,rice flour water sugar,0,1,1,1,0,0,1,0,0,1,0,1,0
+Aloo gobi,potatoes cauliflower oil cumin seeds turmeric salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Aloo tikki,potatoes bread crumbs coriander powder salt oil,0,1,1,1,0,0,1,0,0,1,1,1,0
+Aloo matar,potatoes peas tomatoes onions ginger garlic chili powder garam masala turmeric powder salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Aloo methi,potatoes fenugreek leaves oil cumin seeds asafoetida salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Aloo shimla mirch,potatoes bell peppers onions tomatoes oil cumin seeds salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Bhatura,all-purpose flour yogurt salt sugar baking powder oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Bhindi masala,okra onions tomatoes oil cumin seeds ginger garlic chili powder coriander powder turmeric powder salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Biryani,basmati rice water oil ghee onions tomatoes ginger garlic chili powder turmeric powder garam masala salt cilantro,1,1,1,1,0,0,1,0,0,1,0,1,0
+Butter chicken,chicken yogurt lemon juice ginger garlic garam masala chili powder turmeric powder salt oil,1,1,0,1,0,0,1,0,0,1,0,1,0
+Chana masala,chicken yogurt lemon juice ginger garlic garam masala chili powder turmeric powder salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Chapati,chicken yogurt lemon juice ginger garlic garam masala chili powder turmeric powder salt oil,0,1,1,1,0,0,0,0,0,1,0,1,0
+Chicken razala,chicken yogurt lemon juice ginger garlic garam masala chili powder turmeric powder salt oil,1,1,1,1,0,0,1,0,0,1,0,1,0
+Chicken Tikka masala,chicken yogurt lemon juice ginger garlic garam masala chili powder turmeric powder salt oil,1,1,1,1,0,0,1,0,0,1,1,1,0
+Chicken Tikka,chicken yogurt lemon juice ginger garlic garam masala chili powder turmeric powder salt oil,1,1,1,1,0,0,1,0,0,1,1,1,0
+Chole bhature,chickpeas tomatoes onions ginger garlic chili powder turmeric powder garam masala amchur powder salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Daal baati churma,whole wheat flour water salt oil,0,1,1,1,1,0,1,0,1,1,0,1,0
+Daal puri,pigeon peas wheat flour ghee milk sugar,0,1,1,1,1,0,1,0,1,1,0,1,0
+Dal makhani,whole wheat flour lentils ghee,0,1,1,1,0,0,1,0,0,1,0,1,0
+Dal tadka,lentils tomatoes onions ginger garlic chili powder turmeric powder garam masala salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Dum aloo,potatoes yogurt tomatoes onions ginger garlic chili powder turmeric powder garam masala salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Poha,flattened rice onions peanuts curry leaves mustard seeds turmeric powder chili powder salt sugar cilantro,0,1,1,1,0,0,1,0,0,1,0,1,0
+Fara,lentils ginger green chilies oil turmeric powder salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Kachori,wheat flour lentils oil asafoetida salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Kadai paneer,paneer tomatoes onions bell peppers ginger garlic chili powder turmeric powder garam masala coriander powder salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Kadhi pakoda,yogurt gram flour turmeric powder chili powder salt fenugreek seeds mustard seeds cumin seeds asafoetida curry leaves ginger garlic green chilies,0,1,1,1,0,0,1,1,0,1,0,1,0
+Karela bharta,bitter gourd onions tomatoes oil cumin seeds turmeric powder chili powder salt,0,1,1,1,0,1,1,0,0,1,0,1,0
+Khichdi,rice lentils turmeric powder chili powder mustard seeds cumin seeds asafoetida curry leaves ginger garlic green chilies,0,1,1,1,0,0,0,0,0,1,0,1,0
+Kofta,potatoes paneer onions ginger garlic green chilies cashews cream garam masala coriander powder turmeric powder chili powder salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Lauki ke kofte,bottle gourd potatoes onions ginger garlic green chilies gram flour oil cumin seeds asafoetida turmeric powder salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Lauki ki subji,bottle gourd tomatoes onions ginger garlic green chilies cumin seeds turmeric powder chili powder garam masala salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Litti chokha,wheat flour husked green gram flour oil ghee baking soda salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Makki di roti sarson da saag,corn flour mustard greens ginger green chilies oil salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Misi roti,whole wheat flour lentils mushrooms onions tomatoes ginger garlic green chilies chili powder turmeric powder garam masala salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Mushroom do pyaza,mushrooms peas onions tomatoes ginger garlic green chilies chili powder turmeric powder garam masala coriander powder salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Mushroom matar,mushrooms peas onions tomatoes ginger garlic green chilies chili powder turmeric powder garam masala coriander powder salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Naan,all-purpose flour yeast sugar oil salt water,0,1,1,1,0,0,0,0,0,1,0,1,0
+Navrattan korma,mixed vegetables cashews cream tomatoes onions ginger garlic green chilies chili powder turmeric powder garam masala coriander powder salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Palak paneer,spinach paneer onions tomatoes ginger garlic green chilies chili powder turmeric powder garam masala salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Paneer butter masala,paneer tomatoes onions cashews cream ginger garlic green chilies chili powder turmeric powder garam masala salt butter,0,1,1,1,0,0,1,0,0,1,0,1,0
+Paneer tikka masala,paneer yogurt tomatoes onions ginger garlic green chilies cashews cream garam masala coriander powder salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Pani puri,semolina flour chickpeas potatoes onions tomatoes tamarind chutney mint chutney sev,0,1,1,1,1,0,1,0,0,1,1,1,0
+Papad,urad dal black pepper cumin seeds asafoetida salt oil,0,1,1,1,0,0,0,0,0,1,0,1,0
+Paratha,whole wheat flour water salt ghee,0,1,1,1,0,0,0,0,0,1,0,1,0
+Pattor,whole wheat flour water salt oil,0,1,1,1,0,0,0,0,0,1,0,1,0
+Pindi chana,chickpeas tomatoes onions ginger garlic green chilies chili powder turmeric powder garam masala coriander powder salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Rajma chaval,kidney beans tomatoes onions ginger garlic green chilies chili powder turmeric powder garam masala coriander powder salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Rongi,black-eyed peas tomatoes onions ginger garlic green chilies chili powder turmeric powder garam masala coriander powder salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Samosa,potatoes peas onions ginger garlic green chilies chili powder turmeric powder garam masala coriander powder salt oil,0,1,1,1,0,0,1,0,0,1,1,1,0
+Sattu ki roti,sattu flour water salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Shahi paneer,paneer tomatoes onions cashews cream ginger garlic green chilies chili powder turmeric powder garam masala salt butter,0,1,1,1,0,0,1,0,0,1,0,1,0
+Vegetable jalfrezi,mixed vegetables tomatoes onions ginger garlic green chilies chili powder turmeric powder garam masala salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Tandoori Chicken,chicken yogurt lemon juice ginger garlic garam masala chili powder turmeric powder salt oil,1,1,1,1,0,0,1,0,0,1,1,1,0
+Tandoori Fish Tikka,fish yogurt lemon juice ginger garlic garam masala chili powder turmeric powder salt oil,1,1,1,1,0,0,1,0,0,1,1,1,0
+Attu,rice urad dal fenugreek seeds salt water,0,1,1,1,0,0,1,0,0,1,0,1,0
+Avial,mixed vegetables coconut green chilies cumin seeds yogurt curry leaves turmeric powder coconut oil salt,0,1,1,1,0,0,1,0,0,1,0,0,1
+Bisi bele bath,rice lentils mixed vegetables tamarind curry leaves mustard seeds asafoetida turmeric powder oil salt,0,1,1,1,0,0,1,0,0,1,0,0,1
+Currivepillai sadam,rice lentils curry leaves mustard seeds asafoetida fenugreek seeds cumin seeds urad dal chana dal salt oil,0,1,1,1,0,1,1,0,0,1,0,0,1
+Dosa,rice urad dal fenugreek seeds salt water,0,1,1,1,0,0,1,0,0,1,0,0,1
+Idiappam,rice flour water salt,0,1,1,1,0,0,0,0,0,1,0,0,1
+Idli,rice urad dal fenugreek seeds salt water,0,1,1,1,0,0,0,0,0,1,0,0,1
+Kanji,rice water salt,0,1,1,1,0,0,1,1,0,1,0,0,1
+Kaara kozhambu,tamarind curry leaves mustard seeds fenugreek seeds turmeric powder salt oil,0,1,1,1,0,0,1,1,0,1,0,0,1
+Keerai kootu,spinach lentils coconut green chilies cumin seeds turmeric powder salt,0,1,1,1,0,1,1,0,0,1,0,0,1
+Keerai masiyal,spinach lentils coconut green chilies cumin seeds turmeric powder salt,0,1,1,1,0,1,1,0,0,1,0,0,1
+Keerai sadam,spinach rice mustard seeds urad dal cumin seeds red chilies curry leaves turmeric powder salt oil,0,1,1,1,0,1,1,0,0,1,0,0,1
+Keerai poriyal,spinach mustard seeds urad dal green chilies curry leaves turmeric powder oil salt,0,1,1,1,0,1,1,0,0,1,0,0,1
+Beef Fry,beef onions tomatoes ginger garlic green chilies chili powder turmeric powder garam masala coriander powder salt oil,1,1,1,1,0,0,1,0,0,1,0,0,1
+Kootu,mixed vegetables lentils coconut green chilies cumin seeds turmeric powder salt,0,1,1,1,0,0,1,0,0,1,0,0,1
+Kos kootu,mixed vegetables lentils coconut green chilies cumin seeds turmeric powder salt,0,1,1,1,0,0,1,0,0,1,0,0,1
+Koshambri,cucumber coconut green chilies lemon juice salt,0,1,1,1,0,0,0,1,0,1,0,0,1
+Kothamali sadam,coriander leaves rice coconut green chilies tamarind lemon juice salt,0,1,1,1,0,0,1,0,0,1,0,0,1
+Kuzhambu,tamarind curry leaves mustard seeds fenugreek seeds turmeric powder salt oil,0,1,1,1,0,0,1,0,0,1,0,0,1
+Masala Dosa,rice urad dal fenugreek seeds salt water,0,1,1,1,0,0,1,0,0,1,0,0,1
+Paniyaram,lentils rice green chilies cumin seeds ginger asafoetida salt oil,0,1,1,1,0,0,1,0,0,1,1,0,1
+Papadum,black gram lentils rice water salt,0,1,1,1,0,0,1,0,0,1,0,0,1
+Paruppu sadam,rice lentils mustard seeds asafoetida salt,0,1,1,1,0,0,1,0,0,1,0,0,1
+Pesarattu,green gram lentils rice green chilies cumin seeds ginger asafoetida salt oil,0,1,1,1,0,0,1,0,0,1,0,0,1
+Poriyal,mixed vegetables coconut green chilies cumin seeds turmeric powder salt,0,1,1,1,0,0,1,0,0,1,0,0,1
+Puli sadam,tamarind curry leaves mustard seeds fenugreek seeds asafoetida turmeric powder salt oil,0,1,1,1,0,0,1,1,0,1,0,0,1
+Rasam,tamarind curry leaves mustard seeds fenugreek seeds asafoetida turmeric powder salt oil,0,1,1,1,0,0,1,1,0,1,0,0,1
+Puttu,rice flour grated coconut salt water,0,1,1,1,0,0,0,0,0,1,0,0,1
+Sambar,lentils mixed vegetables tamarind curry leaves mustard seeds asafoetida turmeric powder salt oil,0,1,1,1,0,0,1,1,0,1,0,0,1
+Sandige,rice flour water salt,0,1,1,1,0,0,1,0,0,1,0,0,1
+Sevai,rice vermicelli mustard seeds urad dal chana dal asafoetida curry leaves green chilies salt oil,0,1,1,1,0,0,1,0,0,1,0,0,1
+Thayir sadam,rice yogurt curry leaves mustard seeds asafoetida green chilies ginger salt oil,0,1,1,1,0,0,0,1,0,1,0,0,1
+Theeyal,shallots coconut tamarind curry leaves fenugreek seeds mustard seeds dried red chilies turmeric powder oil,0,1,1,1,0,0,1,1,0,1,0,0,1
+Uttapam,rice lentils salt,0,1,1,1,0,0,1,0,0,1,0,0,1
+Vada,urad dal green chilies ginger curry leaves asafoetida salt oil,0,1,1,1,0,0,1,0,0,1,1,0,1
+Chicken Varuval,chicken onions tomatoes ginger garlic green chilies chili powder turmeric powder garam masala coriander powder salt oil,1,1,1,1,0,0,1,0,0,1,0,1,0
+Upma,semolina mustard seeds urad dal green chilies curry leaves ginger onions salt oil,0,1,1,1,0,0,1,0,0,1,0,0,1
+Amti,lentils mixed vegetables coconut green chilies tamarind turmeric powder salt oil,0,1,1,1,0,0,1,1,0,1,0,0,1
+Zunka,chickpea flour onions green chilies ginger mustard seeds asafoetida curry leaves turmeric powder oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Kolim Jawla,banana flower grated coconut mustard seeds curry leaves dried red chilies tamarind jaggery salt oil,0,1,1,1,0,0,1,1,0,1,0,1,0
+Saath,mixed vegetables lentils curry leaves tamarind mustard seeds turmeric powder jaggery salt oil,0,1,1,1,0,0,1,1,0,1,0,1,0
+Bajri no rotlo,pearl millet flour water salt,0,1,1,1,0,0,0,1,0,1,0,1,0
+Bhakri,millet flour water salt,0,1,1,1,0,0,0,1,0,1,0,1,0
+Bombil fry,Bombay duck flour semolina ginger garlic turmeric powder chili powder salt oil,1,1,1,1,0,0,1,0,0,1,1,1,0
+Daal Dhokli,lentils wheat flour yogurt ginger garlic chili powder turmeric powder asafoetida jaggery salt oil,0,1,1,1,0,0,1,0,0,1,0,0,1
+Dalithoy,lentils turmeric powder chili powder asafoetida curry leaves mustard seeds cumin seeds salt oil,0,1,1,1,0,0,1,0,0,1,0,0,1
+Gatta curry,chickpea flour yogurt ginger garlic green chilies tomatoes turmeric powder chili powder asafoetida mustard seeds salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Handwo,rice lentils bottle gourd yogurt ginger green chilies asafoetida turmeric powder salt oil,0,1,1,1,0,0,1,0,0,1,0,0,1
+Jeera Aloo,potatoes cumin seeds turmeric powder chili powder asafoetida salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Khakhra,whole wheat flour salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Kombdi vade,rice flour grated coconut coriander seeds cumin seeds green chilies ginger garlic turmeric powder salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Methi na Gota,fenugreek leaves chickpea flour turmeric powder chili powder asafoetida salt oil,0,1,1,1,0,0,1,0,0,1,0,1,0
+Muthiya,chickpea flour wheat flour fenugreek leaves cilantro green chilies ginger garlic turmeric powder chili powder oil salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Patra,colocasia leaves chickpea flour tamarind jaggery ginger garlic green chilies sesame seeds mustard seeds oil salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Pav Bhaji,mixed vegetables tomatoes onion garlic ginger green chilies chili powder turmeric powder pav bhaji masala butter salt,0,1,1,1,0,0,1,0,0,1,1,1,0
+Puri Bhaji,potatoes onions tomatoes ginger garlic green chilies turmeric powder chili powder cumin seeds oil salt,0,1,1,1,0,0,1,0,0,1,1,1,0
+Sabudana Khichadi,tapioca pearls peanuts potato cumin seeds green chilies ginger curry leaves lemon juice sugar salt ghee,0,1,1,1,0,0,1,0,0,1,0,1,0
+Sev khamani,chickpeas sev pomegranate green chilies ginger lemon juice cilantro coconut oil salt,0,1,1,1,0,0,1,0,0,1,1,1,0
+Thalipeeth,mixed flours onions cilantro green chilies sesame seeds cumin seeds coriander seeds turmeric powder oil salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Undhiyu,mixed vegetables beans eggplant potatoes muthia ginger garlic green chilies turmeric powder chili powder coriander powder garam masala oil salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Veg Kolhapuri,mixed vegetables onions tomatoes ginger garlic green chilies cashews coconut poppy seeds sesame seeds oil salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Vindaloo,meat (optional) potatoes onions tomatoes ginger garlic vinegar chili powder turmeric powder garam masala oil salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Lilva Kachori,pigeon peas wheat flour ginger garlic green chilies turmeric powder chili powder asafoetida oil salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Mag Dhokli,moong dal wheat flour sesame seeds cumin seeds ginger garlic green chilies turmeric powder oil salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Khichu,rice flour cumin seeds oil salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Thepla,wheat flour fenugreek leaves cilantro green chilies ginger garlic turmeric powder chili powder oil salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Turiya Patra Vatana sabji,ridge gourd colocasia leaves peas tomatoes ginger garlic green chilies mustard seeds turmeric powder chili powder oil salt,0,1,1,1,0,0,1,1,0,1,0,1,0
+Khar,banana peel water,0,1,1,1,0,1,1,1,0,1,0,1,0
+Kumol Sawul,ash gourd milk sugar,0,1,1,1,0,0,1,0,0,1,0,1,0
+Luchi,all-purpose flour oil salt,0,1,1,1,0,0,0,0,0,1,0,1,0
+Alu Pitika,potatoes mustard oil onions green chilies salt coriander leaves,0,1,1,1,0,0,1,0,0,1,0,1,0
+Masor tenga,fish tomatoes mustard oil fenugreek seeds coriander leaves green chilies salt,1,1,1,1,0,0,1,1,0,1,0,1,0
+Bengena Pitika,eggplant mustard oil onions green chilies salt coriander leaves,0,1,1,1,0,0,1,0,0,1,0,1,0
+Bilahi Maas,catfish tomatoes mustard oil ginger garlic turmeric powder green chilies salt,1,1,1,1,0,0,1,0,0,1,0,1,0
+Black rice,black rice water,0,1,1,1,0,0,1,0,0,1,0,1,0
+Bora Sawul,sticky rice black lentils,0,1,1,1,0,0,1,0,0,1,0,1,0
+Brown Rice,brown rice water,0,1,1,1,0,0,0,0,0,1,0,1,0
+Chingri malai curry,prawns coconut milk tomatoes ginger garlic green chilies turmeric powder sugar salt,1,1,1,1,0,0,1,0,0,1,0,1,0
+Haq Maas,mutton asafoetida bay leaves fennel seeds ginger cumin seeds cinnamon cloves black cardamom salt turmeric,1,1,1,1,0,0,1,0,0,1,0,1,0
+Chingri Bhape,prawns mustard oil onions ginger garlic tomatoes green chilies turmeric powder salt,1,1,1,1,0,0,1,0,0,1,0,1,0
+Kabiraji,fish fillets turmeric powder red chili powder ginger garlic lemon juice salt,1,1,1,1,0,0,1,0,0,1,0,1,0
+Khorisa,bamboo shoots mustard oil garlic ginger green chilies salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Koldil Chicken,banana flower chicken turmeric powder salt,1,1,1,1,0,0,1,0,0,1,0,1,0
+Konir Dom,pig's intestine onion ginger garlic bay leaves cardamom cinnamon cloves pepper turmeric powder salt,0,1,1,1,0,0,1,0,0,1,0,1,0
+Koldil Duck,banana flower duck turmeric powder salt,1,1,1,1,0,0,1,0,0,1,0,1,0
+Masor Koni,fish tomato green chilies ginger garlic turmeric powder oil salt,1,1,1,1,0,0,1,0,0,1,0,1,0
+Pakhala,cooked rice water,0,1,1,1,0,0,1,0,0,1,0,1,0
+Prawn malai curry,prawns coconut milk tomatoes ginger garlic green chilies turmeric powder sugar salt,1,1,1,1,0,0,1,0,0,1,0,1,0
+Red Rice,red rice water,0,1,1,1,0,0,0,0,0,1,0,1,0
+Shukto,Bitter gourd vegetables potato drumstick pumpkin etc. mustard paste milk spices,0,1,1,1,0,1,0,1,0,1,0,1,0
+Hot Dogs,Hot dog sausages hot dog buns condiments ketchup mustard relish onions etc.,1,1,1,1,0,0,1,0,0,1,0,0,0
+French Fries,Potatoes oil salt,0,1,1,1,0,0,0,0,0,1,0,0,0
+Chicken Tenders,Chicken breast strips flour eggs breadcrumbs seasoning,1,1,1,1,0,0,1,0,0,1,0,0,0
+Pizza,Pizza dough tomato sauce cheese toppings pepperoni vegetables etc.,1,1,1,1,0,0,1,0,0,1,0,0,0
+Burgers,Ground beef patties burger buns lettuce tomato onion cheese condiments,1,1,1,1,0,0,1,0,0,1,0,0,0
+Meatloaf,Ground beef breadcrumbs eggs onions ketchup seasoning,1,1,1,1,0,0,1,0,0,1,0,0,0
+Macaroni and Cheese,Macaroni pasta cheese cheddar mozzarella etc. milk butter flour seasoning,0,1,1,1,0,0,0,0,0,1,0,0,0
+Grilled Cheese Sandwiches,Bread cheese cheddar American etc. butter,0,1,1,1,0,0,0,0,0,1,0,0,0
+Pot Roast,Beef roast potatoes carrots onions beef broth seasoning,1,1,1,1,0,0,1,0,0,1,0,0,0
+Tater Tots,Potatoes flour seasoning oil,0,1,1,1,0,0,0,0,0,1,0,0,0
+Fried Chicken,Chicken pieces flour eggs buttermilk seasoning oil,1,1,1,1,0,0,1,0,0,1,0,0,0
+Potato Chips,Potatoes oil salt,0,1,1,1,0,0,0,0,0,1,0,0,0
+Barbecue Ribs,Pork ribs barbecue sauce seasoning,1,1,1,1,0,0,1,0,0,1,0,0,0
+Pulled Pork,Pork shoulder barbecue sauce seasoning buns,1,1,0,1,0,0,1,0,0,1,0,0,0
+Chili,Ground beef onions bell peppers kidney beans tomatoes tomato paste chili powder cumin garlic salt,1,1,1,1,0,0,1,0,0,1,0,0,0
+Buffalo Wings,Chicken wings hot sauce butter vinegar Worcestershire sauce garlic powder salt pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+Eggs Benedict,English muffins Canadian bacon poached eggs hollandaise sauce salt pepper,1,1,1,1,0,0,0,0,0,1,0,0,0
+Reuben,Rye bread corned beef Swiss cheese sauerkraut Russian dressing,1,1,1,1,0,0,0,0,0,1,0,0,0
+Gumbo,Andouille sausage chicken shrimp onion bell pepper celery okra tomatoes broth seasoning,1,1,1,1,0,0,1,0,0,1,0,0,0
+Charleston Red Rice,Rice bacon sausage bell pepper onion garlic tomatoes broth salt pepper,0,1,1,1,0,0,1,0,0,1,0,0,0
+Chicken Bog,Chicken rice smoked sausage onion celery garlic salt pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+Dirty Rice,Chicken livers gizzards ground pork onion bell pepper celery garlic rice broth seasoning,1,1,1,1,0,0,1,0,0,1,0,0,0
+Hawaiian Haystack,Cooked rice chicken gravy chow mein noodles pineapple coconut cheese almonds,1,1,1,1,0,0,1,0,0,1,0,0,0
+Hoppin' John,Black-eyed peas rice bacon onion garlic broth seasoning,0,1,1,1,0,0,1,0,0,1,0,0,0
+Jambalaya,Andouille sausage chicken shrimp onion bell pepper celery garlic tomatoes rice broth seasoning,1,1,1,1,0,0,1,0,0,1,0,0,0
+Rice and Gravy,Rice meat drippings flour broth seasoning salt pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+Red Beans and Rice,Red beans rice smoked sausage onion bell pepper celery garlic broth seasoning,0,1,1,1,0,0,1,0,0,1,0,0,0
+Shrimp Creole,Shrimp onion bell pepper celery garlic tomatoes broth seasoning salt pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+Shrimp Creole,Shrimp onion bell pepper celery garlic tomatoes broth seasoning salt pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+Spanish Rice,Rice onion bell pepper tomatoes garlic broth seasoning salt pepper,0,1,1,1,0,0,1,0,0,1,0,0,0
+Bologna Sausage,Pork beef water salt sugar dextrose sodium nitrate flavorings,1,1,1,1,0,0,1,0,0,1,0,0,0
+Breakfast Sausage,Ground pork salt pepper sage thyme rosemary nutmeg ginger,1,1,1,1,0,0,1,0,0,1,0,0,0
+Chaudin,Pork intestines liver onions bell pepper celery garlic parsley breadcrumbs seasoning,1,1,0,1,0,0,1,0,0,1,0,0,0
+Goetta,Pork shoulder beef chuck oats onion salt pepper thyme bay leaves,1,1,1,1,0,0,1,0,0,1,0,0,0
+Half-smoke,Beef pork spices,1,1,0,1,0,0,1,0,0,1,0,0,0
+Hot link (sausage),Pork beef spices,1,1,0,1,0,0,1,0,0,1,0,0,0
+Lebanon bologna,Beef beef hearts beef tongue beef tripe pork chicken sugar salt vinegar lactic acid,1,1,0,1,0,0,1,0,0,1,0,0,0
+Maxwell Street Polish,Polish sausage bun onions pickles,1,1,1,1,0,0,1,0,0,1,0,0,0
+Polish Boy,Kielbasa bun French fries coleslaw barbecue sauce hot sauce,1,1,1,1,1,0,1,0,0,1,0,0,0
+Yangzhou fried rice,Rice eggs peas carrots pork shrimp green onion soy sauce sesame oil salt pepper,0,1,1,1,1,0,1,0,0,1,0,0,0
+Scallion pancake,Flour water salt green onions oil,0,1,1,1,1,0,1,0,0,1,1,0,0
+Braised pork belly,Pork belly soy sauce sugar cooking wine ginger garlic scallion,1,1,1,1,1,0,1,1,0,1,0,0,0
+Sweet and sour spare ribs,Pork ribs soy sauce vinegar sugar ketchup hoisin sauce pineapple bell pepper onion garlic salt,1,1,0,1,1,0,1,1,0,1,0,0,0
+Sichuan hot pot,Meat vegetables tofu mushrooms dumplings noodles chili oil broth seasoning,1,1,1,1,0,0,1,0,0,1,0,0,0
+Dan Dan noodles,Noodles minced pork chili oil sesame paste soy sauce garlic ginger green onions,0,1,1,1,0,0,1,0,0,1,0,0,0
+Latiaozi,Rice noodles sauce chili oil vinegar soy sauce sugar sesame oil salt,1,1,1,1,0,0,1,0,0,1,0,0,0
+Roast suckling pig,Suckling pig salt pepper vinegar soy sauce hoisin sauce garlic ginger sugar,1,1,1,1,1,0,1,0,0,1,0,0,0
+Empanadas,Dough ground beef onion bell pepper garlic cumin paprika oregano raisins olives hard-boiled egg,1,1,1,1,0,0,1,0,0,1,0,0,0
+Ceviche,Raw fish lime juice onion chili peppers cilantro salt,1,1,1,1,0,0,1,1,0,1,0,0,0
+Asado,Beef ribs sausage sweetbreads blood sausage vegetables chimichurri sauce,1,1,1,1,0,0,1,0,0,1,0,0,0
+Feijoada,Black beans pork meat bacon sausage onions garlic bay leaves orange peels,1,1,1,1,0,0,1,0,0,1,0,0,0
+Arepas,Cornmeal water salt butter cheese meats avocado eggs,0,1,1,1,1,0,1,0,0,1,0,0,0
+Churrasco,Beef steak chimichurri sauce,1,1,1,1,0,0,1,0,0,1,0,0,0
+Lomo Saltado,Beef loin tomatoes onions yellow chili peppers soy sauce vinegar garlic cumin fries,1,1,1,1,0,0,1,0,0,1,0,0,0
+Chimichurri,Parsley oregano garlic vinegar oil red pepper flakes salt pepper,0,1,1,1,0,0,1,0,0,1,0,0,0
+Moqueca,Fish or shrimp coconut milk dendê oil garlic onions tomatoes cilantro lime juice,1,1,1,1,0,0,1,0,0,1,0,0,0
+Ajiaco,Chicken broth chicken potatoes corn capers sour cream avocado guascas herbs,1,1,1,1,0,0,1,0,0,1,0,0,0
+Tacu Tacu,Rice beans onions garlic aji amarillo pepper,0,1,1,1,0,0,1,0,0,1,0,0,0
+Milanesa,Thin slice of beef chicken or veal bread crumbs eggs salt pepper garlic lemon,1,1,1,1,0,0,1,0,0,1,0,0,0
+Cuy (Guinea Pig),Guinea pig herbs aji peppers garlic vinegar cumin pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+Tostones,Green plantains oil salt,0,1,1,1,0,0,1,0,0,1,0,0,0
+Anticuchos,Beef hearts aji panca garlic cumin vinegar soy sauce,1,1,1,1,0,0,1,0,0,1,0,0,0
+Sopa de Mondongo,Tripe onion tomato cilantro aji pepper garlic oregano cumin potatoes carrots green peas,1,1,1,1,0,0,1,0,0,1,0,0,0
+Parrillada,Beef ribs chorizo blood sausage sweetbread ribs vegetables chimichurri sauce,1,1,1,1,0,0,1,0,0,1,0,0,0
+Caldinho de Feijão,Black beans onion garlic bay leaves cumin parsley chives lime juice orange pepper,0,1,1,1,0,0,1,0,0,1,0,0,0
+Bolinho de Bacalhau,Salted cod potatoes eggs flour garlic parsley pepper oil for frying,1,1,1,1,0,0,1,0,0,1,0,0,0
+Causa,Yellow potatoes lime juice aji amarillo chili paste oil tuna or chicken mayonnaise avocado,0,1,1,1,0,0,1,0,0,1,0,0,0
+Bibimbap,Rice beef spinach carrots mushrooms zucchini cucumbers bean sprouts fern bracken egg gochujang sauce sesame oil,1,1,1,1,0,0,1,0,0,1,0,0,0
+Kimchi,Chinese cabbage Korean radish salt scallions ginger garlic fish sauce or salted shrimp pepper flakes sugar,0,1,1,0,1,0,1,1,0,1,0,0,0
+Bulgogi,Thinly sliced beef soy sauce sugar sesame oil garlic pepper green onions mushrooms carrots onions,1,1,1,1,0,0,1,0,0,1,0,0,0
+Japchae,Sweet potato starch noodles soy sauce sugar sesame oil garlic onions carrots spinach mushrooms scallions,0,1,1,1,1,0,1,0,0,1,0,0,0
+Kimchi Jjigae,Kimchi pork tofu onion garlic green onions mushrooms pork broth gochugaru,0,1,1,1,0,0,1,1,0,1,0,0,0
+Samgyeopsal,Pork belly lettuce leaves garlic cloves green chili peppers ssamjang or gochujang soy sauce sesame oil kimchi,1,1,1,1,0,0,1,0,0,1,0,0,0
+Tteokbokki,Rice cakes fish cakes onion scallions eggs gochujang soy sauce sugar garlic water,0,1,1,1,0,0,1,0,0,1,0,0,0
+Galbi,Beef short ribs soy sauce sugar garlic green onions sesame oil black pepper pear juice honey kiwi,1,1,1,1,0,0,1,0,0,1,0,0,0
+Sundubu Jjigae,Soft tofu clams or beef or seafood mushrooms onion garlic green onions soy sauce chili powder sesame oil gochujang,1,1,1,1,0,0,1,1,0,1,0,0,0
+Gimbap,Rice seaweed strips ham or beef strips carrots spinach pickled radish eggs,1,1,1,1,1,0,1,0,0,1,0,0,0
+Ceviche,White fish lime juice lemon juice red onion garlic aji amarillo cilantro salt pepper corn lettuce,1,1,1,1,0,0,1,1,0,1,0,0,0
+Risotto,Arborio rice chicken or vegetable broth butter olive oil onion garlic white wine Parmesan cheese salt pepper,0,1,1,1,0,0,0,1,0,1,0,0,0
+Haggis,Sheep's heart liver and lungs onions oatmeal suet spices salt pepper stock,1,1,1,1,0,0,1,0,0,1,0,0,0
+Bratwurst,Ground pork or veal or beef onion garlic nutmeg salt pepper beer mustard sauerkraut,1,1,1,1,0,0,1,0,0,1,0,0,0
+Wiener Schnitzel,Veal cutlets flour eggs breadcrumbs oil lemon parsley capers anchovies,1,1,1,1,0,0,1,0,0,1,0,0,0
+Quiche Lorraine,Pie crust eggs cream bacon Swiss cheese salt pepper nutmeg,1,1,1,1,1,0,0,1,0,1,0,0,0
+Kebabs,Meat or vegetables marinade or seasoning skewers,1,1,1,1,0,0,1,0,0,1,0,0,0
+Poutine,French fries cheese curds gravy,1,1,1,1,0,0,1,0,0,1,0,0,0
+Spanakopita,Phyllo dough spinach feta cheese onions garlic dill eggs olive oil salt pepper,0,1,1,1,1,0,1,0,0,1,0,0,0
+Fideuà,Short thin pasta seafood (shrimp squid mussels) fish stock onions tomatoes garlic saffron paprika olive oil lemon wedges,1,1,1,1,0,0,1,0,0,1,0,0,0
+Rösti,Potatoes butter salt pepper,0,1,1,1,0,0,1,0,0,1,0,0,0
+Steak Tartare,Raw beef capers onions parsley Worcestershire sauce mustard ketchup Tabasco sauce cognac egg yolk,1,1,1,1,0,0,1,0,0,1,0,0,0
+Pirozhki,Yeast dough beef cabbage eggs onions garlic dill parsley salt pepper,1,1,1,1,1,0,1,0,0,1,0,0,0
+Carpaccio,Beef fillet olive oil lemon juice capers Parmesan cheese arugula salt pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+Maultaschen,Pasta dough beef spinach onions garlic nutmeg salt pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+Bouillabaisse,Various fish shellfish tomatoes onions garlic fennel saffron orange zest olive oil,1,1,1,1,0,0,1,0,0,1,0,0,0
+Moules Frites,Mussels white wine shallots garlic parsley butter fries,1,1,1,1,0,0,1,0,0,1,0,0,0
+Tapas,Various ingredients like olives cheese ham chorizo patatas bravas gambas al ajillo mushrooms in garlic sauce calamari garlic shrimp croquettes etc.,1,1,1,1,0,0,1,0,0,1,0,0,0
+Smørrebrød,Rye bread butter pickled herring smoked salmon roast beef liver pâté boiled eggs cucumbers tomatoes lettuce radishes chives parsley,1,1,1,1,0,0,1,0,0,1,0,0,0
+Biscuits and Gravy,Biscuits flour baking powder salt sugar butter buttermilk Gravy sausage flour milk salt pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+New England Clam Bake,Clams mussels lobster corn potatoes onions garlic butter salt pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+Nachos,Tortilla chips cheese ground beef beans salsa guacamole sour cream jalapeños,0,1,1,1,0,0,1,0,0,1,0,0,0
+Reuben Sandwich,Rye bread corned beef Swiss cheese sauerkraut Thousand Island dressing,1,1,1,1,0,0,0,1,0,1,0,0,0
+Texas Chili,Beef tomatoes onions garlic chili powder cumin paprika cayenne pepper beef broth beans (optional),1,1,1,1,0,0,1,0,0,1,0,0,0
+Cobb Salad,Lettuce tomatoes bacon avocado eggs blue cheese chicken breast green onions chives red wine vinaigrette dressing,0,1,1,1,1,0,1,1,0,1,0,0,0
+Montreal Smoked Meat Sandwich,Rye bread Montreal smoked meat yellow mustard pickle slices,1,1,1,1,0,0,0,1,0,1,0,0,0
+Shrimp and Grits,Shrimp grits butter garlic cheese milk salt pepper,1,1,1,1,0,0,1,0,0,1,0,0,0
+Monte Cristo Sandwich,Sliced bread ham turkey Swiss cheese egg milk salt pepper mustard,1,1,1,1,1,0,0,0,0,1,0,0,0
+Sushi,Sushi rice nori sheets fish (tuna salmon yellowtail etc.) vegetables (cucumber avocado carrot etc.) soy sauce wasabi pickled ginger,1,1,1,1,0,0,0,1,0,1,0,0,0
+Ramen,Ramen noodles broth (chicken pork miso etc.) soy sauce mirin sake toppings (chashu pork eggs green onions seaweed bamboo shoots etc.),1,1,1,1,0,0,1,0,0,1,0,0,0
+Tempura,Seafood (shrimp squid etc.) vegetables (sweet potato onion zucchini etc.) tempura batter (flour egg ice water) vegetable oil soy sauce tempura dipping sauce,1,1,1,1,0,0,0,0,0,1,0,0,0
+Sashimi,Sliced raw fish (tuna salmon yellowtail etc.) soy sauce wasabi pickled ginger,1,1,1,1,0,0,0,1,0,1,0,0,0
+Yakitori,Skewered and grilled chicken or other meat or vegetables,1,1,1,1,0,0,1,0,0,1,0,0,0
+Udon,Udon noodles broth (dashi soy sauce mirin sake) toppings (tempura shrimp vegetables green onions kamaboko fish cake etc.),1,1,1,1,0,0,1,0,0,1,0,0,0
+Tonkatsu,Pork loin or pork fillet flour egg breadcrumbs vegetable oil cabbage tonkatsu sauce,1,1,1,1,0,0,0,0,0,1,0,0,0
+Okonomiyaki,Batter (flour water eggs cabbage yam or grated nagaimo) toppings (sliced pork belly octopus squid shrimp vegetables green onions pickled ginger tenkasu bonito flakes nori mayonnaise okonomiyaki sauce),1,1,1,1,0,0,1,1,0,1,0,0,0
+Miso Soup,Miso paste dashi stock (kombu seaweed bonito flakes) tofu wakame seaweed green onions,0,1,1,1,0,0,1,1,0,1,0,0,0
+Takoyaki,Batter (flour eggs dashi) octopus tempura scraps pickled ginger green onions takoyaki sauce Worcestershire sauce mayonnaise aonori bonito flakes,1,1,1,1,1,0,1,0,0,1,0,0,0
+Khorkhog,Meat (mutton beef goat) vegetables (potatoes carrots onions etc.) water or broth salt,1,1,0,1,0,0,1,0,0,1,0,0,0
+Buuz,Dough (flour water salt) filling (ground meat onions garlic spices),1,1,0,1,0,0,1,0,0,1,0,0,0
+Khuushuur,Dough (flour water salt) filling (ground meat onions garlic spices),1,1,0,1,0,0,1,0,0,1,0,0,0
+Bantan,Meat (mutton beef goat) flour water salt,1,1,0,1,0,0,1,0,0,1,0,0,0
+Tsuivan,Noodles (homemade or store-bought) meat (mutton beef goat) vegetables (carrots onions cabbage etc.) oil salt soy sauce,1,1,0,1,0,0,1,0,0,1,0,0,0
+Bansh,Dough (flour water salt) filling (ground meat onions garlic spices),1,1,0,1,0,0,1,0,0,1,0,0,0
+Guriltai Shul,Lamb or beef onions garlic oil salt,1,1,0,1,0,0,1,0,0,1,0,0,0
+Khoorshoor,Dough (flour water salt) filling (ground meat onions garlic spices),1,1,0,1,0,0,1,0,0,1,0,0,0
+Boodog,Marmot or goat meat vegetables hot stones,1,1,0,1,0,0,1,0,0,1,0,0,0
+Hainanese Chicken Rice,Chicken rice garlic ginger chicken stock salt vegetable oil,1,1,1,1,0,0,1,1,0,1,0,0,0
+Chili Crab,Mud crabs chili sauce tomato paste egg ketchup vinegar sugar ginger garlic eggs soy sauce oyster sauce cornstarch water spring onions,1,1,1,1,0,0,1,1,0,1,0,0,0
+Laksa,Rice noodles coconut milk chicken or shrimp broth chicken or shrimp tofu bean sprouts fish cake prawns hard-boiled egg laksa paste lime leaves sambal belacan,1,1,1,1,0,0,1,1,0,1,0,0,0
+Char Kway Teow,Flat rice noodles dark soy sauce light soy sauce chili prawns Chinese lap cheong (sausage) fish cakes bean sprouts chives cockles belachan sambal fried egg,1,1,1,1,0,0,1,1,0,1,0,0,0
+Hainanese Pork Chop,Pork chops ginger garlic soy sauce oyster sauce sesame oil sugar cornstarch salt pepper,1,1,1,1,0,0,1,1,0,1,0,0,0
+Satay,Skewered and grilled meat (chicken beef lamb) peanut sauce,1,1,1,1,0,0,1,1,0,1,1,0,0
+Bak Kut Teh,Pork ribs pork belly or chicken herbs and spices (star anise cloves cinnamon fennel seeds garlic) mushrooms tofu fried dough youtiao soy sauce oyster sauce,1,1,1,1,0,0,1,1,0,1,0,0,0
+Nasi Lemak,Rice coconut milk pandan leaves salt peanuts anchovies cucumber hard-boiled egg sambal ikan bilis fried chicken or fish,1,1,1,1,1,0,1,1,0,1,0,0,0
+Chicken Satay with Peanut Sauce,Chicken skewers marinade (coconut milk soy sauce fish sauce turmeric curry powder sugar) peanut sauce (peanut butter coconut milk soy sauce sugar chili lime juice),1,1,1,1,0,0,1,1,0,1,0,0,0
+Tagine,Meat (chicken lamb beef) vegetables (potatoes carrots onions etc.) dried fruits (apricots raisins etc.) nuts (almonds etc.) spices (cumin cinnamon ginger etc.),1,1,1,1,0,0,1,0,0,1,0,0,0
+Couscous,Couscous water salt,0,1,1,0,0,0,0,0,0,1,0,0,0
+Jollof Rice,Rice tomatoes tomato paste onions bell peppers Scotch bonnet peppers or chili powder garlic ginger bay leaves thyme stock cubes salt pepper oil,1,1,1,1,0,0,1,0,0,1,0,0,0
+Bobotie,Ground meat (beef lamb or pork) bread milk curry powder turmeric lemon juice salt pepper eggs milk,1,1,1,1,1,0,1,0,1,1,0,0,0
+Injera,Teff flour water salt yeast oil,0,1,1,0,0,0,0,0,0,1,0,0,0
+Doro Wat,Chicken onions berbere spice mix (chili powder fenugreek seeds ginger garlic onions cardamom cloves nutmeg) niter kibbeh (clarified butter) tomatoes,1,1,1,1,0,0,1,0,0,1,0,0,0
+Bunny Chow,Hollowed-out loaf of bread filled with curry (usually chicken or mutton),1,1,1,1,0,0,1,0,0,1,0,0,0
+Moambe Chicken,Chicken palm oil garlic onions tomatoes tomato paste okra spinach spices (paprika chili pepper),1,1,1,1,0,0,1,0,0,1,0,0,0
+Fufu,Cassava or yam flour water salt,0,1,1,0,0,0,0,0,0,1,0,0,0
+Biltong,Beef (or game meats) vinegar salt black pepper coriander sugar,1,1,0,1,0,0,1,0,0,1,0,0,0
+Samosa,Pastry dough (flour water salt oil) filling (potatoes peas spices),1,1,1,1,0,0,1,0,0,1,0,0,0
+Piri Piri Chicken,Chicken lemon garlic onion chilies (bird's eye or other hot peppers) vinegar paprika salt oil,1,1,1,1,0,0,1,0,0,1,0,0,0
+Suya,Beef skewers peanut spice mix (groundnut powder cayenne pepper ginger paprika onion powder garlic powder bouillon powder salt),1,1,1,1,0,0,1,0,0,1,0,0,0
+Akara,Black-eyed peas onions salt chili peppers oil for frying,0,1,1,0,0,0,1,0,0,1,0,0,0
+Kelewele,Ripe plantains ginger garlic chili pepper salt vegetable oil for frying,0,1,1,1,0,0,1,0,0,1,0,0,0
+Ful Medames,Fava beans garlic lemon juice olive oil salt,1,1,1,1,0,0,1,0,0,1,0,0,0
+Chapati,Wheat flour water salt oil or ghee,0,1,1,1,0,0,0,0,0,1,0,0,0
+Maafe,Beef or chicken peanut butter tomatoes onions garlic sweet potatoes (optional) spices (paprika cumin),1,1,1,1,0,0,1,0,0,1,0,0,0
+Nyama Choma,Grilled meat (beef goat or chicken) salt pepper spices (optional),1,1,1,1,0,0,1,0,0,1,0,0,0
+Ugali,Maize flour water,0,1,1,0,0,0,0,0,0,1,0,0,0
+Briyani,Rice (basmati or other long-grain varieties) meat (chicken beef lamb) yogurt onions tomatoes spices,1,1,1,1,0,0,1,0,0,1,0,0,0
+Chakalaka,Beans tomatoes onions carrots cabbage chili peppers curry powder paprika salt pepper oil,1,1,1,1,0,0,1,0,0,1,0,0,0
+Pap en Vleis/Shisa Nyama,Pap (maize meal) grilled meat (steak lamb or chicken),1,1,1,1,0,0,1,0,0,1,0,0,0
+Efo Riro,Spinach or other greens tomatoes onions bell peppers chili peppers crayfish or stock seasoning salt oil,1,1,1,1,0,0,1,0,0,1,0,0,0
+Egusi Soup,Ground melon seeds spinach or other greens tomatoes onions meat or fish (optional) seasoning salt oil,1,1,1,1,0,0,1,0,0,1,0,0,0
+Chermoula,Parsley cilantro garlic cumin paprika cayenne pepper lemon juice olive oil salt pepper,0,1,1,1,0,0,1,1,0,1,0,0,0
+Shakshuka,Tomatoes bell peppers onions garlic chili peppers cumin paprika eggs salt pepper oil,1,1,1,1,0,0,1,1,0,1,0,0,0
+Koshari,Rice lentils pasta (macaroni or other short pasta) chickpeas tomato sauce garlic vinegar cumin salt oil,1,1,1,1,0,0,1,0,0,1,0,0,0
+Fatayer,Dough (flour yeast water salt sugar) filling (spinach cheese meat),0,1,1,1,1,0,1,0,1,1,0,0,0
+Khachapuri,Dough (flour yeast water salt sugar) cheese (Georgian sulguni or mozzarella) egg butter,0,1,1,1,1,0,1,0,1,1,0,0,0
+apple_pie,flour sugar butter cinnamon apples salt,0,0,1,1,1,0,0,0,1,0,0,0,0
+bread_pudding,bread milk eggs sugar vanilla extract cinnamon raisins nutmeg,1,1,1,1,1,0,0,0,1,0,0,0,0
+carrot_cake,flour sugar carrots eggs oil vanilla extract cinnamon baking soda salt cream cheese butter,0,0,1,1,1,0,0,0,1,0,0,0,0
+cheese_plate,assorted cheeses crackers fruits nuts,0,1,1,1,1,0,0,0,1,0,1,0,0
+cheesecake,graham cracker crumbs cream cheese sugar eggs sour cream vanilla extract,0,0,1,1,1,0,0,0,1,0,0,0,0
+chocolate_cake,flour sugar cocoa powder baking powder baking soda salt eggs milk vegetable oil,0,0,1,1,1,0,0,0,1,0,0,0,0
+chocolate_ice_cream,cocoa powder sugar milk heavy cream vanilla extract salt chocolate chips,0,1,1,1,1,0,0,0,1,0,0,0,0
+chocolate_mousse,chocolate eggs sugar heavy cream,0,1,1,1,1,0,0,0,1,0,0,0,0
+cupcakes,flour sugar eggs butter milk baking powder vanilla extract salt,0,0,1,1,1,0,0,0,1,0,0,0,0
+donuts,flour sugar yeast milk eggs butter oil vanilla extract salt,0,0,1,1,1,0,0,0,1,0,0,0,0
+french_toast,bread eggs milk cinnamon vanilla extract salt,1,1,1,1,1,0,0,0,1,0,0,0,0
+frozen_yogurt,yogurt sugar vanilla extract salt,0,1,1,0,1,0,0,0,1,0,0,0,0
+pancakes,flour milk eggs butter sugar baking powder salt,0,1,1,1,1,0,0,0,1,0,0,0,0
+panna_cotta,cream milk sugar vanilla extract gelatin,0,0,1,1,1,0,0,0,1,0,0,0,0
+red_velvet_cake,flour sugar cocoa powder baking soda baking powder salt butter eggs buttermilk vinegar vanilla extract,0,0,1,1,1,0,0,0,1,0,0,0,0
+strawberry_shortcake,strawberries sugar whipped cream cake,0,0,1,1,1,0,0,0,1,0,0,0,0
+tiramisu,ladyfingers espresso mascarpone cheese sugar cocoa powder,0,0,1,1,1,0,0,0,1,0,0,0,0
+waffles,flour sugar baking powder eggs milk butter,0,1,1,1,1,0,0,0,1,0,0,0,0
+Balu shahi,flour yogurt ghee milk sugar,0,1,1,1,1,0,0,0,1,0,0,0,0
+Boondi,chickpea flour ghee sugar water,0,0,1,1,1,0,0,0,1,0,0,0,0
+Gajar ka halwa,carrots milk sugar ghee nuts raisins cardamom,0,1,1,1,1,0,0,0,1,0,0,0,0
+Ghevar,flour ghee sugar water nuts saffron,0,0,1,1,1,0,0,0,1,0,0,0,0
+Gulab jamun,milk powder flour sugar ghee milk rose water cardamom,0,0,1,1,1,0,0,0,1,0,0,0,0
+Imarti,lentil flour sugar saffron oil,0,0,1,1,1,0,0,0,1,0,0,0,0
+Jalebi,flour yogurt sugar ghee lemon juice,0,0,1,1,1,0,0,0,1,0,0,0,0
+Kaju katli,cashews sugar ghee cardamom,0,1,0,1,1,0,0,0,1,0,0,0,0
+Kalakand,milk sugar paneer cardamom nuts,0,1,1,1,1,0,0,0,1,0,0,0,0
+Kheer,rice milk sugar nuts cardamom,0,1,1,1,1,0,0,0,1,0,0,0,0
+Laddu,flour ghee sugar,0,1,1,1,1,0,0,0,1,0,0,0,0
+Lassi,flour ghee sugar cardamom,0,1,1,0,1,0,0,0,1,0,0,0,0
+Nankhatai,flour ghee sugar,0,0,1,1,1,0,0,0,1,0,0,0,0
+Petha,ash gourd sugar water,0,0,1,0,1,0,0,0,1,0,0,0,0
+Phirni,rice milk sugar nuts saffron,0,1,1,1,1,0,0,0,1,0,0,0,0
+Rabri,milk sugar cardamom,0,1,1,1,1,0,0,0,1,0,0,0,0
+Sheera,semolina ghee sugar nuts raisins,0,0,1,1,1,0,0,0,1,0,0,0,0
+Singori,coconut milk jaggery cardamom,0,1,1,1,1,0,0,0,1,0,0,0,0
+Sohan halwa,milk sugar ghee,0,0,1,1,1,0,0,0,1,0,0,0,0
+Sohan papdi,sugar ghee,0,0,1,1,1,0,0,0,1,0,0,0,0
+Chhena jalebi,cottage cheese sugar water,0,0,1,1,1,0,0,0,1,0,0,0,0
+Chhena kheeri,cottage cheese milk sugar,0,1,1,1,1,0,0,0,1,0,0,0,0
+Chhena poda,cottage cheese sugar,0,1,1,1,1,0,0,0,1,0,0,0,0
+Cham cham,cottage cheese sugar syrup coconut flakes,0,1,1,1,1,0,0,0,1,0,0,0,0
+Kheer sagar,condensed milk sugar pistachios rose water cardamom,0,1,1,1,1,0,0,0,1,0,0,0,0
+Ledikeni,cottage cheese sugar ghee,0,1,1,1,1,0,0,0,1,0,0,0,0
+Lyangcha,flour sugar ghee,0,1,1,1,1,0,0,0,1,0,0,0,0
+Malapua,flour ghee sugar,0,1,1,1,1,0,0,0,1,0,0,0,0
+Mihidana,flour ghee sugar milk,0,1,1,1,1,0,0,0,1,0,0,0,0
+Misti doi,rice flour sugar,0,1,1,1,1,0,0,0,1,0,0,0,0
+Pantua,milk powder sugar flour baking soda ghee oil cardamom almonds cashews,0,1,1,1,1,0,0,0,1,0,0,0,0
+Pithe,rice flour coconut milk jaggery grated coconut oil ghee,0,1,1,1,1,0,0,0,1,0,0,0,0
+Rasabali,milk sugar cardamom flour ghee ghee for frying,0,1,1,1,1,0,0,0,1,0,0,0,0
+Ras malai,milk sugar cardamom saffron flour semolina vinegar,0,1,1,1,1,0,0,0,1,0,0,0,0
+Rasgulla,milk sugar lemon juice,0,1,1,1,1,0,0,0,1,0,0,0,0
+Sandesh,cottage cheese sugar cardamom,0,1,1,1,1,0,0,0,1,0,0,0,0
+Adhirasam,rice flour jaggery oil,0,1,1,1,1,0,0,0,1,0,0,0,0
+Ariselu,rice jaggery oil,0,1,1,1,1,0,0,0,1,0,0,0,0
+Bandar laddu,gram flour sugar ghee cardamom,0,1,1,1,1,0,0,0,1,0,0,0,0
+Chikki,peanuts jaggery,0,1,1,1,1,0,0,0,1,0,0,0,1
+Dharwad pedha,milk sugar ghee,0,1,1,1,1,0,0,0,1,0,0,1,0
+Double ka meetha,bread ghee sugar milk saffron,0,0,1,1,1,0,0,0,1,0,0,0,0
+Gavvalu,rice flour ghee salt water,0,0,1,1,1,0,0,0,1,0,0,0,0
+Kakinada khaja,maida sugar ghee,0,0,1,1,1,0,0,0,1,0,0,0,1
+Kuzhi paniyaram,black gram dal rice jaggery cardamom,0,1,1,1,1,0,0,0,1,0,0,0,1
+Mysore pak,gram flour ghee sugar,0,1,1,1,1,0,0,0,1,0,0,1,0
+Obbattu holige,chana dal jaggery maida rava oil ghee cardamom,0,1,1,1,1,0,0,0,1,0,0,1,0
+Palathalikalu,rice flour sugar milk ghee,0,1,1,1,1,0,0,0,1,0,0,1,0
+Poornalu,chana dal jaggery ghee cardamom,0,1,1,1,1,0,0,0,1,0,0,1,0
+Pongal,rice moong dal ghee cumin seeds black peppercorns ginger curry leaves cashews,0,1,1,1,1,0,0,0,1,0,0,1,0
+Pootharekulu,rice flour sugar ghee,0,1,1,1,1,0,0,0,1,0,0,1,0
+Qubani ka meetha,apricots sugar water,0,1,1,1,1,0,0,0,1,0,0,1,0
+Sheer korma,milk vermicelli sugar ghee nuts cardamom saffron,0,1,1,1,1,0,0,0,1,0,0,0,1
+Unni Appam,rice flour jaggery banana coconut oil ghee cardamom,0,1,1,1,1,0,0,0,1,0,0,1,0
+Kajjikaya,maida coconut sugar,0,1,1,1,1,0,0,0,1,0,0,0,1
+Anarsa,rice flour jaggery ghee,0,1,1,1,1,0,0,0,1,0,0,1,0
+Basundi,milk rice sugar saffron cardamom,0,1,1,1,1,0,0,0,1,0,0,0,1
+Dhondas,rice flour jaggery cardamom,0,1,1,1,1,0,0,0,1,0,0,1,0
+Doodhpak,milk rice sugar cardamom nutmeg saffron almonds pistachios,0,1,1,1,1,0,0,0,1,0,0,0,1
+Mahim halwa,coconut jaggery rice flour,0,1,1,1,1,0,0,0,1,0,0,1,0
+Modak,wheat flour jaggery ghee cardamom,0,1,1,1,1,0,0,0,1,0,0,1,0
+Shankarpali,semolina ghee sugar cardamom,0,0,1,1,1,0,0,0,1,0,0,1,0
+Shrikhand,cashew apple,0,1,1,1,1,0,0,0,1,0,0,0,1
+Sutar feni,fish mustard seeds turmeric powder garlic ginger green chilies tomatoes onions curry leaves oil salt water,0,1,1,1,1,0,0,0,1,0,0,0,1
+Chak Hao Kheer,black rice milk sugar nuts,0,0,1,1,1,0,0,0,1,0,0,1,0
+Kulfi falooda,milk sugar almonds pistachios cardamom saffron rose water vermicelli,0,1,1,1,1,0,0,0,1,0,0,1,0
+Panjeeri,whole wheat flour ghee semolina sugar dried fruits nuts cardamom,0,1,1,1,1,0,0,0,1,0,0,1,0
+Shahi tukra,bread milk saffron sugar ghee nuts,0,1,1,1,1,0,0,0,1,0,0,1,0
+Kuzhakkattai,rice lentils coconut green chilies asafoetida salt,0,1,1,1,0,0,0,0,1,0,0,0,1
+Pachadi,yogurt coconut green chilies mustard seeds asafoetida salt,0,1,1,1,0,0,0,1,1,0,0,0,1
+Paravannam,rice milk sugar ghee,0,1,1,1,1,0,0,0,1,0,0,0,1
+Payasam,rice milk sugar ghee,0,1,1,1,1,0,0,0,1,0,0,0,1
+Coconut vadi,grated coconut sugar ghee,0,1,1,1,1,0,0,0,1,0,0,0,1
+Chakali,rice flour chickpea flour sesame seeds cumin seeds asafoetida turmeric powder chili powder salt oil,0,1,1,1,1,0,1,0,1,0,1,0,1
+Chevdo,flattened rice peanuts cashews almonds raisins roasted gram flour turmeric powder chili powder salt oil,0,1,1,1,1,0,1,0,1,0,1,0,1
+Chorafali,chickpea flour semolina black pepper seeds carom seeds salt oil,0,1,1,1,1,0,1,0,1,0,1,0,1
+Copra paak,grated coconut sugar ghee,0,1,1,1,1,0,0,0,1,0,0,0,1
+Kutchi dabeli,potato masala peanuts coconut tamarind dates chili powder turmeric powder salt oil,0,1,1,1,1,0,1,0,1,0,1,0,1
+Dahi vada,lentils yogurt green chilies ginger cilantro mint leaves asafoetida turmeric powder salt sugar oil,0,1,1,1,1,0,1,0,1,0,1,0,1
+Dhokla,chickpea flour semolina yogurt ginger green chilies asafoetida turmeric powder lemon juice salt sugar oil,0,1,1,1,1,0,1,0,1,0,1,0,1
+Dudhi halwa,bottle gourd sugar ghee,0,1,1,1,1,0,0,0,1,0,0,0,1
+Gud papdi,jaggery wheat flour ghee,0,0,1,1,1,0,0,0,1,0,0,0,1
+Ghooghra,flour coconut jaggery cardamom powder ghee,0,1,1,1,1,0,0,0,1,0,0,1,0
+Halvasan,wheat flour ghee jaggery,0,1,1,1,1,0,0,0,1,0,0,0,1
+Kansar,wheat flour ghee jaggery,0,1,1,1,1,0,0,0,1,0,0,1,0
+Keri no ras,mango sugar,0,1,1,1,1,0,0,0,1,0,0,1,0
+Khandvi,chickpea flour yogurt green chilies ginger turmeric powder asafoetida salt oil,0,1,1,1,1,0,1,0,1,0,1,1,0
+Laapsi,cracked wheat sugar ghee,0,1,1,1,1,0,0,0,1,0,0,1,0
+Koshimbir,cucumber peanuts coconut green chilies lemon juice cilantro salt,0,1,1,1,1,0,0,0,1,0,0,1,0
+Mohanthal,gram flour ghee sugar milk cardamom powder almonds pistachios saffron,0,1,1,1,1,0,0,0,1,0,0,1,0
+Sev tameta,tomatoes sev green chilies ginger garlic turmeric powder chili powder oil salt,0,1,1,1,1,0,1,0,1,0,1,1,0
+Namakpara,all-purpose flour semolina carom seeds cumin seeds salt oil,0,1,1,1,0,0,0,0,1,0,1,0,1
+Sukhdi,wheat flour jaggery ghee,0,1,1,1,1,0,0,0,1,0,0,1,0
+Surnoli,rice urad dal fenugreek seeds grated coconut jaggery,0,1,1,1,1,0,0,0,1,0,0,1,0
+Farsi Puri,wheat flour semolina black pepper seeds carom seeds oil salt,0,1,1,1,1,0,1,0,1,0,0,1,0
+Khaman,gram flour yogurt sugar lemon juice green chilies ginger turmeric powder oil fruit salt,0,1,1,1,1,0,1,0,1,0,0,1,0
+Churma Ladoo,wheat flour ghee jaggery cardamom powder almonds pistachios,0,1,1,1,1,0,0,0,1,0,0,1,0
+Cheera Doi,flattened rice yogurt sugar,0,1,1,1,1,0,0,0,1,0,0,1,0
+Gheela Pitha,rice flour jaggery grated coconut,0,1,1,1,1,0,0,0,1,0,0,1,0
+Goja,flour sugar ghee,0,1,1,1,1,0,0,0,1,0,0,1,0
+Hando Guri,chickpeas mustard oil garlic ginger cumin seeds fennel seeds red chilies salt,0,1,1,1,1,0,0,0,1,0,0,1,0
+Mishti Chholar Dal,chickpeas coconut sugar ginger green chilies bay leaves cinnamon cloves cardamom turmeric powder salt,0,1,1,1,1,0,1,0,1,0,1,0,1
+Pani Pitha,rice flour water,0,1,1,1,1,0,0,0,1,0,0,1,0
+Payokh,rice flour water,0,1,1,1,1,0,0,0,1,0,0,1,0
+Til Pitha,Rice flour sesame seeds jaggery grated coconut cardamom powder oil,0,1,1,1,1,0,0,0,1,0,0,1,0
+Bebinca,Coconut milk eggs sugar flour,0,1,1,1,1,0,0,0,1,0,0,1,0
+Shufta,Mixed dry fruits almonds cashews pistachios etc. saffron sugar ghee,0,1,1,1,1,0,0,0,1,0,0,1,0
+Mawa Bati,Khoya mawa sugar flour ghee,0,1,1,1,1,0,0,0,1,0,0,1,0
+Pinaca,Rice flour jaggery grated coconut cardamom powder oil,0,1,1,1,1,0,0,0,1,0,0,1,0
+Apple Pie,Apples sugar flour butter cinnamon lemon juice pie crust,0,0,1,1,1,0,0,1,1,0,1,0,0
+Chocolate Chip Cookies,Flour butter sugar eggs chocolate chips vanilla extract baking soda,0,0,1,1,1,0,0,1,1,0,1,0,0
+Ice Cream,Milk cream sugar eggs optional flavorings vanilla chocolate etc.,0,1,1,1,1,0,0,1,1,0,1,0,0
+Donuts,Flour sugar yeast milk eggs butter oil for frying toppings glaze sprinkles etc.,0,0,1,1,1,0,0,1,1,0,1,0,0
+Brownies,Flour sugar cocoa powder eggs butter vanilla extract,0,0,1,1,1,0,0,1,1,0,1,0,0
+Cupcakes,Flour sugar eggs butter baking powder milk vanilla extract frosting optional,0,0,1,1,1,0,0,1,1,0,1,0,0
+S'Mores,Graham crackers marshmallows chocolate bars,0,0,1,1,1,0,0,1,1,0,1,0,0
+Coleslaw,Cabbage carrots mayonnaise vinegar sugar mustard salt pepper,0,0,1,1,1,0,0,1,1,0,1,0,0
+Peanut Butter and Jelly Sandwiches,Bread peanut butter jelly/jam,0,1,1,1,1,0,0,1,1,0,1,0,0
+Molten Chocolate Cake,Chocolate eggs sugar flour butter cocoa powder vanilla extract salt,0,1,1,1,1,0,0,1,1,0,1,0,0
+New York-style Cheesecake,Cream cheese sugar eggs sour cream vanilla extract lemon zest flour salt,0,1,1,1,1,0,0,1,1,0,1,0,0
+Frozen Custard,Milk cream sugar eggs vanilla extract,0,1,1,1,1,0,0,1,1,0,1,0,0
+Calas,Rice flour eggs sugar yeast nutmeg oil powdered sugar,0,1,1,1,1,0,0,1,1,0,1,0,0
+Glorified Rice,Cooked rice pineapple chunks maraschino cherries whipped cream sugar salt,0,1,1,1,1,0,0,1,1,0,1,0,0
+Italian hot dog,Sausage bread tomato sauce onions peppers,1,1,1,1,1,0,1,1,0,0,1,0,0
+Momo,Dough ground meat onions garlic ginger spices,1,1,1,1,0,0,1,0,0,0,1,0,0
+Salt-and-pepper squid,Squid salt pepper flour vegetable oil chili pepper scallion garlic,1,1,1,1,0,0,1,0,0,0,1,0,0
+Cachapas,Corn kernels milk salt sugar cheese,0,1,1,1,1,0,0,1,1,0,1,0,0
+Pisco Sour,Pisco lemon juice syrup egg white angostura bitters,0,0,1,0,1,0,0,1,1,0,1,0,0
+Chicha Morada,Purple corn water pineapple cloves cinnamon sugar lime juice,0,0,1,0,1,0,0,1,1,0,1,0,0
+Alfajores,Shortbread cookies dulce de leche coconut flakes or powdered sugar,0,1,1,1,1,0,0,1,1,0,1,0,0
+Humitas,Ground fresh corn masa onions garlic lard salt pepper boiled corn husks,0,1,1,1,1,0,0,1,1,0,1,0,0
+Chocotorta,Chocolate cookies cream cheese dulce de leche coffee liqueur cocoa powder whipped cream,0,1,1,1,1,0,0,1,1,0,1,0,0
+Picarones,Squash sweet potato flour yeast sugar water cinnamon syrup,0,1,1,1,1,0,0,1,1,0,1,0,0
+Pastel de Choclo,Corn onions meat olives hard-boiled eggs sugar,0,1,1,1,1,0,0,1,1,0,1,0,0
+Sopa Paraguaya,Cornmeal cheese eggs milk salt,0,1,1,1,1,0,0,1,1,0,1,0,0
+Choclo con Queso,Large kernel corn cheese leaves,0,1,1,1,1,0,0,1,1,0,1,0,0
+Baklava,Phyllo dough walnuts pistachios almonds sugar cinnamon cloves honey,0,1,1,1,1,0,0,1,1,0,1,0,0
+Tiramisu,Ladyfingers espresso mascarpone cheese eggs sugar cocoa powder,0,1,1,1,1,0,0,1,1,0,1,0,0
+Sourdough Bread,Flour water sourdough starter salt,0,1,1,1,0,0,0,1,0,0,1,0,0
+Boortsog,Flour sugar butter milk eggs salt oil,0,1,1,1,1,0,0,0,1,0,1,0,0
+Roti Prata,Flour water salt oil ghee or butter,0,1,1,1,1,0,0,1,1,0,1,0,0
+Tiramisu,Ladyfingers (savoiardi biscuits) espresso or strong coffee mascarpone cheese eggs sugar cocoa powder,0,0,1,1,1,0,0,0,1,0,0,0,0
+Baklava,Phyllo dough nuts (usually pistachios or walnuts) sugar butter honey lemon juice cinnamon,0,1,1,1,1,0,0,0,1,0,0,0,0
+Chocotorta,Chocolate cookies or biscuits cream cheese dulce de leche cocoa powder milk,0,1,1,1,1,0,0,0,1,0,0,0,0
+Alfajores,Cornstarch flour butter sugar dulce de leche coconut flakes,0,1,1,1,1,0,0,0,1,0,0,0,0
+Pastel de Choclo,Corn onions garlic chicken (optional) sugar black olives hard-boiled eggs raisins spices (cumin paprika),0,1,1,1,1,0,0,0,1,0,0,0,0
+Cheesecake,Graham cracker crumbs butter cream cheese sugar eggs vanilla extract sour cream lemon juice,0,1,1,1,1,0,0,0,1,0,0,0,0
+Red Velvet Cake,Flour cocoa powder baking soda baking powder sugar eggs buttermilk vegetable oil vinegar red food coloring cream cheese butter vanilla extract powdered sugar,0,1,1,1,1,0,0,0,1,0,0,0,0
+Mochi,Sweet rice flour sugar water cornstarch filling (usually sweet bean paste or fruit preserves),0,1,1,1,1,0,0,0,1,0,0,0,0
+Pavlova,Egg whites caster sugar cornflour white vinegar vanilla extract whipped cream fruits,0,1,1,1,1,0,0,0,1,0,0,0,0
+Panna Cotta,Heavy cream milk sugar gelatin vanilla extract,0,1,1,1,1,0,0,0,1,0,0,0,0
+Cannoli,Ricotta cheese sugar cinnamon vanilla extract chocolate chips pistachios cannoli shells,0,1,1,1,1,0,0,0,1,0,0,0,0
+Gelato,Milk sugar cream flavorings,0,1,1,1,1,0,0,0,1,0,0,0,0
+Churros,Flour water butter salt sugar cinnamon oil for frying,0,1,1,1,1,0,0,0,1,0,0,0,0
+Apple Pie,Apples sugar flour butter cinnamon nutmeg lemon juice pie crust,0,0,1,1,1,0,0,0,1,0,0,0,0
+Brownies,Butter sugar eggs cocoa powder flour vanilla extract salt chocolate chips or nuts,0,1,1,1,1,0,0,0,1,0,0,0,0
+Creme Brulee,Heavy cream egg yolks sugar vanilla extract,0,1,1,1,1,0,0,0,1,0,0,0,0
+Gulab Jamun,Milk powder flour baking powder ghee or oil sugar water rose water saffron cardamom,0,1,1,1,1,0,0,0,1,0,0,0,0
+Éclair,Milk water butter flour eggs sugar cornstarch vanilla extract chocolate for icing,0,1,1,1,1,0,0,0,1,0,0,0,0
+Macarons,Almond flour powdered sugar egg whites granulated sugar food coloring optional,0,1,1,1,1,0,0,0,1,0,0,0,0
+Mille-Feuille,Puff pastry pastry cream powdered sugar,0,1,1,1,1,0,0,0,1,0,0,0,0
+Pecan Pie,Pie crust pecans eggs corn syrup sugar butter vanilla extract,0,1,1,1,1,0,0,0,1,0,0,0,0
+Tres Leches Cake,Cake flour baking powder eggs sugar milk vanilla extract evaporated milk sweetened condensed milk heavy cream rum optional,0,1,1,1,1,0,0,0,1,0,0,0,0
+Black Forest Cake,Chocolate cake cherries kirsch whipped cream chocolate shavings,0,1,1,1,1,0,0,0,1,0,0,0,0
+Sachertorte,Dark chocolate butter sugar eggs flour apricot jam rum optional,0,1,1,1,1,0,0,0,1,0,0,0,0
+Bruschetta,Bread tomatoes garlic olive oil basil salt pepper,0,1,1,1,0,0,1,1,0,0,1,0,0
+Spring Rolls,Spring roll wrappers vermicelli noodles shrimp or chicken vegetables soy sauce oil for frying,0,1,1,1,0,0,1,1,0,0,1,0,0
+Caprese Salad,Tomatoes mozzarella cheese basil olive oil balsamic vinegar salt pepper,0,1,1,1,0,0,1,1,0,0,1,0,0
+Gazpacho,Tomatoes cucumber bell peppers onion garlic bread olive oil vinegar salt pepper,0,1,1,1,0,1,1,1,0,0,1,0,0
+Edamame,Edamame young soybeans salt,0,1,1,1,0,0,1,0,0,0,1,0,0
+Antipasto,Assorted cured meats salami prosciutto cheese mozzarella provolone olives roasted peppers artichoke hearts,0,1,1,1,0,0,1,1,0,0,1,0,0
+Dim Sum,Dumpling wrappers ground pork or shrimp vegetables soy sauce sesame oil ginger garlic green onions,0,1,1,1,0,0,1,1,0,0,1,0,0
+Prawn Cocktail,Prawns shrimp cocktail sauce ketchup horseradish lemon juice Worcestershire sauce lemon wedge,0,1,1,1,0,0,1,1,0,0,1,0,0
+Stuffed Mushrooms,Mushrooms cream cheese garlic breadcrumbs Parmesan cheese parsley salt pepper,0,1,1,1,0,0,1,0,0,0,1,0,0
+Deviled Eggs,Eggs mayonnaise mustard vinegar salt pepper paprika,0,1,1,1,0,0,1,0,0,0,1,0,0
+Mezze,Hummus baba ganoush tzatziki falafel olives feta cheese pita bread,0,1,1,1,0,0,1,1,0,0,1,0,0
+Gyoza,Ground pork or chicken garlic ginger soy sauce sesame oil green onions gyoza wrappers oil for frying,0,1,1,1,0,0,1,1,0,0,1,0,0
+Crostini,Baguette olive oil salt pepper garlic herbs,0,1,1,1,0,0,1,1,0,0,1,0,0
+Escargot,Escargot butter garlic parsley lemon juice salt pepper baguette,1,1,1,1,0,0,1,0,0,0,1,0,0
+Falafel,Chickpeas garlic onion parsley cumin coriander flour salt pepper oil for frying,0,1,1,1,0,0,1,1,0,0,1,0,0
+Ceviche,Fish or seafood lime juice red onion tomato cilantro jalapeño salt pepper,0,1,1,1,0,0,1,1,0,0,1,0,0
+Sushi,Rice vinegar sugar salt sushi rice nori seaweed fish or seafood vegetables,0,1,1,1,0,0,1,0,0,0,1,0,0
+Samosa,Potatoes peas carrots onion garlic ginger garam masala turmeric cumin coriander dough oil for frying,0,1,1,1,0,0,1,1,0,0,1,0,0
+Hummus,Chickpeas tahini lemon juice garlic olive oil salt,0,1,1,1,0,0,1,1,0,0,1,0,0
+Pani Puri,Semolina flour all-purpose flour salt water oil for frying,0,1,1,1,0,0,1,1,0,0,1,0,0
+Bruschetta,Baguette tomatoes garlic basil olive oil balsamic vinegar salt pepper,0,0,1,1,0,0,1,1,0,0,1,0,0
+Caesar Salad,Romaine lettuce Caesar dressing Parmesan cheese croutons,0,1,1,1,0,1,0,1,0,0,1,0,0
+Cheese Plate,Assorted cheeses crackers bread fruits nuts,0,1,1,1,0,0,0,0,0,0,1,0,0
+Chicken Wings,Chicken wings flour salt pepper oil for frying hot sauce or seasoning,1,1,0,1,0,0,1,0,0,0,1,0,0
+Falafel,Chickpeas onion garlic parsley coriander cumin baking powder flour salt pepper oil for frying,0,1,1,1,0,0,1,1,0,0,1,0,0
+Greek Salad,Tomatoes cucumbers red onion olives feta cheese olive oil lemon juice oregano salt pepper,0,1,1,1,0,0,0,1,0,0,1,0,0
+Guacamole,Avocado tomato onion garlic lime juice cilantro salt pepper,0,1,1,1,0,0,1,1,0,0,1,0,0
+Onion Rings,Onions flour cornstarch baking powder salt pepper egg milk oil for frying,0,1,1,1,0,0,1,0,0,0,1,0,0
+Nachos,Tortilla chips cheese jalapeños sour cream guacamole salsa,1,1,1,1,0,0,1,1,0,0,1,0,0
+Spring Rolls,Spring roll wrappers vermicelli noodles shrimp or chicken vegetables soy sauce oil for frying,0,1,1,1,0,0,1,0,0,0,1,0,0
+Club Sandwich,Bread turkey or chicken bacon lettuce tomato mayonnaise mustard,1,1,1,1,0,0,0,0,0,0,1,0,0
+Fried Calamari,"Calamari rings Flour Salt Pepper Garlic powder Paprika Oil for frying Marinara sauce (optional, for dipping)",1,1,0,1,0,0,1,0,0,0,1,0,0
+Garlic Bread,Baguette or bread loaf Butter Garlic Parsley Salt,0,1,1,1,0,0,0,0,0,0,1,0,0
+Grilled Cheese Sandwich,Bread slices Cheese slices Butter or margarine,1,1,1,1,0,0,0,0,0,0,1,0,0
+Hot and Sour Soup,Chicken or vegetable broth Tofu Mushrooms Bamboo shoots Eggs Cornstarch Vinegar Soy sauce Chili sauce White pepper Green onions,1,1,1,1,0,1,1,1,0,0,1,0,0
+French Onion Soup,Onions Beef broth Butter Olive oil Flour Thyme Bay leaf Salt Black pepper Baguette slices Gruyere cheese,1,1,1,1,0,0,0,1,0,0,1,0,0
+French Fries,Potatoes Oil for frying Salt,0,0,1,1,0,0,1,0,0,0,1,0,0
+Chicken Quesadilla,Flour tortillas Cooked chicken Shredded cheese Bell peppers Onion Salsa Sour cream (optional),1,1,1,1,0,0,1,0,0,0,1,0,0
+Mozzarella Sticks,Mozzarella cheese sticks Flour Eggs Breadcrumbs Italian seasoning Marinara sauce (for dipping),0,1,1,1,0,0,1,0,0,0,1,0,0
+Caprese Salad,Tomatoes Fresh mozzarella cheese Fresh basil leaves Olive oil Balsamic vinegar Salt Black pepper,0,1,1,1,0,0,0,0,0,0,1,0,0
+Poutine,French fries Cheese curds Gravy,1,1,1,1,0,0,1,0,0,0,1,0,0
+Shrimp Cocktail,"Shrimp Cocktail sauce Lemon (optional, for garnish)",1,1,0,1,0,0,1,1,0,0,1,0,0
